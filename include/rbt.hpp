@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 template <class T>
 class RBT {
 	struct node_t
